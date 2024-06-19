@@ -252,4 +252,8 @@ div section div h1{
         grid-column: 8/10;
     }
 
+    #main-image{
+        display:none;
+    }
+
 }
